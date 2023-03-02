@@ -6,3 +6,8 @@
   color: red !important;
   background-color: yellow !important;
 }
+
+body {
+  background-color: blue !important;
+  font-size: 30px !important;
+}
