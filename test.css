@@ -104,45 +104,37 @@ margin-right: 12px;}
 
 
 .mainTable .completeButton{
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: flex-start;
-padding: 12px 20px;
-gap: 10px;
-
-position: absolute;
-width: 549px;
-height: 48px;
-left: 106px;
-top: 332px;
-
-/* red */
-
-background: #E0000F;
-border-radius: 46px;
+background: none repeat scroll 0% 0% #39C !important;
+display: inline-block !important;
+padding: 5px 9px;
+border: 0px none;
+color: #FFF;
+font-size: 14px;
+cursor: default;
+text-indent: unset;
+font-weight: bold;
+margin-top: 12px;
+margin-right: 12px;
 }
 
 
 
 .completeButton {
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: flex-start;
-padding: 12px 20px;
-gap: 10px;
-
-position: absolute;
-width: 549px;
-height: 48px;
-left: 106px;
-top: 332px;
-
-/* red */
-
-background: #E0000F;
-border-radius: 46px;
+background: none repeat scroll 0% 0% #39C;
+display: inline-block;
+padding: 5px 9px;
+border: 0px none;
+color: #FFF;
+font-size: 15px;
+font-weight: normal;
+font-family: "Raleway","Helvetica Neue",Verdana,Arial,sans-serif;
+line-height: 17px;
+text-align: center;
+text-transform: uppercase;
+vertical-align: middle;
+white-space: nowrap;
+margin-top: 10px;
+margin-left: 44px;
 }
 
 .cancelButton {
