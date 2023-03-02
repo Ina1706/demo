@@ -104,17 +104,23 @@ margin-right: 12px;}
 
 
 .mainTable .completeButton{
-background: none repeat scroll 0% 0% #39C !important;
-display: inline-block !important;
-padding: 5px 9px;
-border: 0px none;
-color: #FFF;
-font-size: 14px;
-cursor: default;
-text-indent: unset;
-font-weight: bold;
-margin-top: 12px;
-margin-right: 12px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 12px 20px;
+gap: 10px;
+
+position: absolute;
+width: 549px;
+height: 48px;
+left: 106px;
+top: 332px;
+
+/* red */
+
+background: #E0000F;
+border-radius: 46px;
 }
 
 
