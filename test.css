@@ -138,20 +138,7 @@ margin-left: 44px;
 }
 
 .cancelButton {
-background: none repeat scroll 0% 0% #39C;
-display: inline-block;
-padding: 5px 9px;
-border: 0px none;
-color: #FFF;
-font-size: 15px;
-font-weight: normal;
-font-family: "Raleway","Helvetica Neue",Verdana,Arial,sans-serif;
-line-height: 17px;
-text-align: center;
-text-transform: uppercase;
-vertical-align: middle;
-white-space: nowrap;
-margin-top: 10px;
+display:none;
 }
 
 
